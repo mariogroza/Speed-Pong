@@ -1,0 +1,25 @@
+﻿  windowsPlatform.cpp
+G:\C++ Games\Game\Game\renderer.cpp(43,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\game.cpp(3,1): warning C4005: 'pressed': macro redefinition
+  (compiling source file 'windowsPlatform.cpp')
+  G:\C++ Games\Game\Game\game.cpp(2,1):
+  see previous definition of 'pressed'
+  
+G:\C++ Games\Game\Game\game.cpp(83,24): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\game.cpp(95,25): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'windowsPlatform.cpp')
+  
+  Game.vcxproj -> G:\C++ Games\Game\x64\Debug\Game.exe

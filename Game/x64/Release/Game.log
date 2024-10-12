@@ -1,0 +1,30 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  windowsPlatform.cpp
+G:\C++ Games\Game\Game\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(60,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(61,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\renderer.cpp(62,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\game.cpp(3,1): warning C4005: 'pressed': macro redefinition
+  (compiling source file 'windowsPlatform.cpp')
+  G:\C++ Games\Game\Game\game.cpp(2,1):
+  see previous definition of 'pressed'
+  
+G:\C++ Games\Game\Game\game.cpp(84,24): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'windowsPlatform.cpp')
+  
+G:\C++ Games\Game\Game\game.cpp(96,25): warning C4305: '*=': truncation from 'double' to 'float'
+  (compiling source file 'windowsPlatform.cpp')
+  
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Game.vcxproj -> G:\C++ Games\Game\x64\Release\Game.exe
