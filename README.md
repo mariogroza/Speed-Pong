@@ -22,6 +22,7 @@ Speed-Pong is a minimalistic yet engaging adaptation of the classic Pong game. T
 ![image](https://github.com/user-attachments/assets/e2b583a9-a59f-4957-acce-b208c53a7a4b)
 
 Speed-Pong Gameplay
+
 📖 How to Play
 
     Launch the game.
