@@ -1,9 +1,11 @@
 Speed-Pong
 
 A classic Pong game with a modern twist! Built entirely in C++ without the use of any game engine, Speed-Pong is my first step into game development and a testament to learning by doing.
+
 🕹️ Gameplay
 
 Speed-Pong is a minimalistic yet engaging adaptation of the classic Pong game. The core mechanic introduces an escalating challenge: the ball gets faster with every hit, testing your reflexes and keeping the gameplay intense!
+
 🚀 Features
 
     Dynamic Ball Speed: The ball accelerates with every successful paddle hit, making the game progressively more challenging.
